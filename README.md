@@ -9,5 +9,5 @@ With a strong foundation in programming, web development, and embedded systems, 
 I have got some pinned projects, but my favourite ones are [IoT-Enabled Smart Home Automation](https://github.com/jami-zubayer/IoT-Enabled-Smart-Home-Automation) and [Kingdom of Martial Arts Bangladesh](https://github.com/jami-zubayer/Kingdom-of-Martial-Arts-Bangladesh)
 
 
-**📫 Visit my website:**
+**Visit my website:**
 
